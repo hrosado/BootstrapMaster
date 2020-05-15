@@ -65,7 +65,6 @@ C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\bin\System.Web.Helpers.xml
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\bin\System.Web.Mvc.xml
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\obj\Debug\BootstrapMaster.csprojAssemblyReference.cache
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\obj\Debug\BootstrapMaster.csproj.CoreCompileInputs.cache
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\obj\Debug\BootstrapMaster.csproj.CopyComplete
 C:\Users\Telework\OneDrive\Documents\2020_Repos\BootstrapMaster\BootstrapMaster\obj\Debug\BootstrapMaster.dll
